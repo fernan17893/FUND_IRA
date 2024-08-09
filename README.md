@@ -83,11 +83,11 @@ Ensure you have the following installed:
         
          test-account: email(test@test.com) password(123456)
 
-![image](./public/Login.png)
+![](./fundira/public/Login.png)
 
 - **Dashboard**: Access the dashboard to view and manage contributions and funding sources.
 
-![image](./public/Dashboard.png)
+![](./fundira/public/Dashboard.png)
 
 - **Funding Sources**: Add an ACH funding source by clicking Add Fund Sources
 
@@ -95,16 +95,16 @@ Ensure you have the following installed:
         Account Number(000123456789)
         Routing Number(110000000) 
 
-![image](./public/AddFundSource.png)
+![](./fundira/public/AddFundSource.png)
 
 - **Micro Deposits**: Before users can add a contribution ACH bank accounts are verified using micro deposits. Click on the verify button to confirm amounts.
 
         test amounts: .32 and .45
 
-![image](./public/MicroDeposits.png)
+![](./fundira/public/MicroDeposits.png)
 - **Add Contribution**: Users can add contributions through the "Add Contribution" button.
 
-![image](./public/Contribution.png)
+![](./fundira/public/Contribution.png)
 - **Logout**: Users can log out using the "Logout" button.
 
 ## Bugs
